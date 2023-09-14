@@ -1,0 +1,2 @@
+export M2_HOME= /Applications/apache-maven-3.8.1
+Export PATH=$PATH:$M2_HOME/BIN
